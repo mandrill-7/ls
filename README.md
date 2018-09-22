@@ -6,3 +6,5 @@ ls commands with a Binary Trees implementation => usage: ft_ls [-RalrtdfGuUy1] 	
 [Norme](ressources/norme.en.pdf)
 
 ![ls](ressources/ls.gif)
+
+### Marks. 118/100
